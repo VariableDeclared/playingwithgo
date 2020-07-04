@@ -7,7 +7,6 @@ import (
 )
 
 func main() {
-
 	h := &app.Handler{
 		Title:  "Hello Demo",
 		Author: "Maxence Charriere",
